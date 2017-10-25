@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@unction/applicator": "2.5.0",
-    "@unction/reducevalues": "2.8.0"
+    "@unction/reducevalues": "2.9.0"
   },
   "nyc": {
     "require": [
