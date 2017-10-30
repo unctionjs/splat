@@ -1,6 +1,6 @@
 {
   "name": "@unction/splat",
-  "version": "2.27.0",
+  "version": "2.28.0",
   "description": "Takes a function and a list of values and recursively applies the value to the functions",
   "keywords": [
     "unction",
