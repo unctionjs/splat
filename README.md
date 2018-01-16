@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (ValueType -> any) -> Array<ValueType> -> any
+> (ValueType => any) => Array<ValueType> => any
 
 Takes a function and a list of values and recursively applies the value to the functions.
 
