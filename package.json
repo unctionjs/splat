@@ -51,8 +51,8 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/applicator": "4.0.1",
-    "@unction/reducevalues": "8.2.0",
+    "@unction/applicator": "4.0.2",
+    "@unction/reducevalues": "8.3.0",
     "core-js": "3.0.1"
   },
   "nyc": {
