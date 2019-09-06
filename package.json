@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@unction/applicator": "4.1.1",
-    "@unction/reducevalues": "8.6.0"
+    "@unction/reducevalues": "8.7.0"
   },
   "files": [
     "index.ts",
