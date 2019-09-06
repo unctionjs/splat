@@ -1,5 +1,5 @@
 /* eslint-disable no-magic-numbers */
-import splat from "./index.ts";
+import splat from "./index";
 
 test(() => {
   expect(splat((left) => left + 1)([1])).toEqual(2);
