@@ -53,8 +53,8 @@
     "typescript": "3.5.1"
   },
   "dependencies": {
-    "@unction/applicator": "4.1.1",
-    "@unction/reducevalues": "8.7.0"
+    "@unction/applicator": "4.1.2",
+    "@unction/reducevalues": "8.8.0"
   },
   "files": [
     "index.ts",
